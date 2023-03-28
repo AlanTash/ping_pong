@@ -1,1 +1,1 @@
-# ping_pong
+#It's a beta version of PingPong game
